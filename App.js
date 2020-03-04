@@ -18,6 +18,8 @@ export default class App extends Component {
   }
 }
 
+// Test comment to trigger git diff
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
